@@ -212,7 +212,7 @@ function BlogArticle() {
                   <div className="flex items-baseline gap-3 flex-wrap">
                     <span className="text-xs uppercase tracking-[0.2em] text-muted-foreground">Investimento</span>
                     <span className="text-2xl sm:text-3xl md:text-4xl font-medium text-foreground" style={{ fontFamily: "var(--font-serif)" }}>
-                      R$ 24,99
+                      R$ 69,99
                     </span>
                   </div>
                   <a
