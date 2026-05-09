@@ -216,7 +216,7 @@ function BlogArticle() {
                     </span>
                   </div>
                   <a
-                    href="https://pay.hotmart.com/A105688536G"
+                    href="https://pay.hotmart.com/A105688536G?checkoutMode=10"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-clinical hover:bg-clinical-hover transition-colors text-primary-foreground px-6 sm:px-8 py-4 text-xs sm:text-sm font-medium tracking-wide inline-flex items-center justify-center gap-2 uppercase self-stretch sm:self-start text-center"
